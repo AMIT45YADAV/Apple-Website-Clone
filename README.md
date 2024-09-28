@@ -1,2 +1,8 @@
-# Apple-Website-Clone
-This project is a meticulous recreation of Apple's iPhone 15 Pro website, built using cutting-edge technologies such as React.js, Three.js, and GSAP . The clone showcases a seamless blend of 3D graphics, animations, and responsive design, providing an engaging user experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
